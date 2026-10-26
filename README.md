@@ -16,7 +16,7 @@ I cleaned the raw Excel data in Power Query, built a data model, wrote DAX measu
 * How many orders are completed, pending or cancelled, and is the business reaching its completion target?
 
 ## Key Results
-* Measure	                         Value
+                        
 * Total Revenue:                   UGX 722.4M
 * Total Cost:                      UGX 547.3M
 * Gross Profit:	                   UGX 175.1M
@@ -41,7 +41,7 @@ I cleaned the raw Excel data in Power Query, built a data model, wrote DAX measu
 * Page 4: Order Completion	Completed orders against the 90% target
 
   ## Data Cleaning (Power Query)
-Table	                  
+                  
 * Table_Products:	Extra spaces and inconsistent capital letters in text columns(Problem).	Trimmed text and applied Capitalize Each Word(Solution).
  Table_Products:	2 rows with a stock quantity of -1 "data entry error"(Problem).	Replaced with 0(Solution).
 * Table_Orders:	4 duplicate rows(Problem).	Removed duplicates on OrderID(Solution).
