@@ -1,6 +1,6 @@
 # KidukaRetailAndWholesale_Sales_Performance
 Tools Used 
-* Mircosoft Excel
+* Microsoft Excel
 * Power BI
 
   ## Project Overview
@@ -9,22 +9,22 @@ The project consists of different sheets such as customers,orders, orderdetails 
 I cleaned the raw Excel data in Power Query, built a data model, wrote DAX measures and designed a four-page report that answers practical business questions.
 
 ## Business Questions Answered
-How much revenue and profit did the business make, and at what margin?
-Which product categories, products and regions earn the most profit?
-Which products need restocking right now?
-How much money is tied up in stock that is not selling?
-How many orders are completed, pending or cancelled, and is the business reaching its completion target?
+* How much revenue and profit did the business make, and at what margin?
+* Which product categories, products and regions earn the most profit?
+* Which products need restocking right now?
+* How much money is tied up in stock that is not selling?
+* How many orders are completed, pending or cancelled, and is the business reaching its completion target?
 
 ## Key Results
-Measure	                         Value
-Total Revenue:                   UGX 722.4M
-Total Cost:                      UGX 547.3M
-Gross Profit:	                   UGX 175.1M
-Profit Margin:                   24.2%
-Total Orders: 	                 950
-Order Completion Rate:           86.2% (target 90%)
-Products below reorder level:	   4 (target 0)
-Dead Stock Value:                UGX 18.07M
+* Measure	                         Value
+* Total Revenue:                   UGX 722.4M
+* Total Cost:                      UGX 547.3M
+* Gross Profit:	                   UGX 175.1M
+* Profit Margin:                   24.2%
+* Total Orders: 	                 950
+* Order Completion Rate:           86.2% (target 90%)
+* Products below reorder level:	   4 (target 0)
+* Dead Stock Value:                UGX 18.07M
 
 ## Main Insights
 * Electronics drives the business. It earns about UGX 105.7M in gross profit, roughly 60% of the total. Agriculture comes second with UGX 34.1M.
